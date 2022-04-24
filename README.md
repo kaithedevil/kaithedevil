@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/biplabdatta25?label=Follow)](https://github.com/kaithedevil/kaithedevil)
 [![LinkedIn](https://img.shields.io/badge/Biplab-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplab-datta-b77857230/)
 [![GitHub Follow](https://img.shields.io/github/followers/kaithedevil?style=social)](https://github.com/kaithedevil)
+![](https://komarev.com/ghpvc/?username=kaithedevil&color=brightgreen)
 <!--
 **kaithedevil/kaithedevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
