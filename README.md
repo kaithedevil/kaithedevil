@@ -14,8 +14,20 @@ https://badgen.net/
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/98644626/164988078-d8f3c107-a2d4-463e-b6b1-a5eeda0e1f17.png)
 
 ## 👨🏻‍💻 About Me
+<img alt="Night Coding" src="https://thumbs.gfycat.com/PowerlessUnawareIncatern-size_restricted.gif" align="right" style="width: 40%;">
 
 
+🎓  I'm currently studying Production Engineering at National Institute of Technology, Agartala.
+
+<!--💡  Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter. -->
+
+🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
+
+✉️  You can shoot me an email at dattabiplab021@gmail.com! I'll try to respond as soon as I can.
+
+
+
+## Find me around the web 🌎
 <!--
 **kaithedevil/kaithedevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
