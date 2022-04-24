@@ -13,6 +13,8 @@ https://badgen.net/
 -->
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/98644626/164988078-d8f3c107-a2d4-463e-b6b1-a5eeda0e1f17.png)
 
+## 👩🏾‍💻 About Me
+
 
 <!--
 **kaithedevil/kaithedevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
