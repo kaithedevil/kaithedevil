@@ -1,7 +1,9 @@
 # Hi I'm Biplab 👋 👩🏾‍💻
+
+<!--Adding Social Media Platforms -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/biplabdatta25?label=Follow)](https://github.com/kaithedevil/kaithedevil)
-<img src="https://camo.githubusercontent.com/adb616edd8266ce84b6c47bb69538045e4b600f74a2ec909d435ef8ce7aa6c64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54616e79612d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f74616e796172616a68616e732f" alt="Linkedin: Biplab" data-canonical-src="https://img.shields.io/badge/-Biplab-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/biplab-datta-b77857230/" style="max-width: 100%;">
 [![LinkedIn](https://img.shields.io/badge/Biplab-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplab-datta-b77857230/)
+[![GitHub Follow](https://img.shields.io/github/followers/kaithedevil?style=social)](https://github.com/kaithedevil)
 <!--
 **kaithedevil/kaithedevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
