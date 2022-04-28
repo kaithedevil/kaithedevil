@@ -26,8 +26,14 @@ https://badgen.net/
 ✉️  You can shoot me an email at dattabiplab021@gmail.com! I'll try to respond as soon as I can.
 
 
+<img align="left" width="150" height="146" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/backend-developer.gif" style="max-width: 100%; height: 50%">
 
 ## Find me around the web 🌎
+
++ Struggling on <a href="https://leetcode.com/kaithedevil/" rel="nofollow">LeetCode</a> 😍
++ Working on <a href="https://www.codechef.com/users/kaithedevil" rel="nofollow">CodeChef</a> 😅
++ Practising on <a href="https://codeforces.com/profile/Kaithedevil" rel="nofollow">Codeforces</a> 🙃
++ Sharing updates on <a href="https://www.linkedin.com/in/biplab-datta-b77857230/" rel="nofollow">LinkedIn</a> 😇
 <!--
 **kaithedevil/kaithedevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
