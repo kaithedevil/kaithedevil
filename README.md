@@ -26,7 +26,7 @@ https://badgen.net/
 ✉️  You can shoot me an email at dattabiplab021@gmail.com! I'll try to respond as soon as I can.
 
 
-<img align="left" width="150" height="146" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/backend-developer.gif" style="max-width: 100%; height: 50%">
+<img align="left" width="150" height="146" src="https://d2te1y9qx21itc.cloudfront.net/images/jobs/20160506/marketing-director.gif" style="max-width: 100%; height: 50%">
 
 ## Find me around the web 🌎
 
